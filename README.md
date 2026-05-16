@@ -54,7 +54,7 @@ The agent can chain multiple tools in a single response. Ask it to "summarize th
 ## Demo
 
 ![Web Search](assets/1.png)
-![Multi-tool](asset/2.png)
+![Multi-tool](assets/2.png)
 
 ## Project structure
 
