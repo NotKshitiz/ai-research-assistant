@@ -51,6 +51,10 @@ The agent can chain multiple tools in a single response. Ask it to "summarize th
 | Language | Python |
 
 ---
+## Demo
+
+![Web Search](assets/1.png)
+![Multi-tool](asset/2.png)
 
 ## Project structure
 
